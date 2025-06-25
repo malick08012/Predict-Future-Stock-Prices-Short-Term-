@@ -29,7 +29,7 @@ This project uses machine learning to predict the **next day's closing stock pri
 | Stock  | RMSE  | R² Score | Next Day Predicted Price |
 |--------|-------|----------|---------------------------|
 
-| AAPL   | 1.16  | 1.00     | $225.34   |
+| AAPL      | 1.16        | 1.00            | $225.34   |
 
 
 
